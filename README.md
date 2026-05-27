@@ -79,6 +79,22 @@ it-troubleshooting-guides/
         Mark as Resolved
     </button>
 </section>
+<section id="wifi" class="guide-card">
+    <h2>Wi-Fi Troubleshooting</h2>
+    <p>Resolve wireless connectivity problems.</p>
+
+    <ol>
+        <li>Restart router and modem.</li>
+        <li>Forget and reconnect to Wi-Fi network.</li>
+        <li>Check Wi-Fi adapter settings.</li>
+        <li>Run Windows network troubleshooter.</li>
+        <li>Update network drivers.</li>
+    </ol>
+
+    <button onclick="showMessage('Wi-Fi troubleshooting completed.')">
+        Mark as Resolved
+    </button>
+</section>
         <section id="slowpc" class="guide-card">
             <h2>Slow Computer Performance</h2>
             <p>Improve system speed and responsiveness.</p>
