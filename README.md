@@ -265,6 +265,36 @@ footer {
     background-color: #1d74d1;
 }
 ├── script.js
+
+// Alert message function
+function showMessage(message) {
+    alert(message);
+}
+
+// Dark Mode Toggle
+const darkModeToggle = document.getElementById("darkModeToggle");
+
+darkModeToggle.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+
+    // Save user preference
+    if (document.body.classList.contains("dark-mode")) {
+        localStorage.setItem("theme", "dark");
+    } else {
+        localStorage.setItem("theme", "light");
+    }
+});
+
+// Load saved theme
+window.addEventListener("load", () => {
+    const savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme === "dark") {
+        document.body.classList.add("dark-mode");
+    }
+});
+
+console.log("IT Troubleshooting Guides Loaded Successfully");
 function showMessage(message) {
     alert(message);
 }
