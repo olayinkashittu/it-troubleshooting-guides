@@ -62,6 +62,22 @@ it-troubleshooting-guides/
                 Mark as Resolved
             </button>
         </section>
+        <section id="software" class="guide-card">
+    <h2>Software Installation Issues</h2>
+    <p>Fix problems during software installation.</p>
+
+    <ol>
+        <li>Run installer as administrator.</li>
+        <li>Check system requirements.</li>
+        <li>Disable antivirus temporarily.</li>
+        <li>Free up disk space.</li>
+        <li>Download a fresh installer file.</li>
+    </ol>
+
+    <button onclick="showMessage('Software installation issue resolved.')">
+        Mark as Resolved
+    </button>
+</section>
         
 <section id="bluetooth" class="guide-card">
     <h2>Bluetooth Troubleshooting</h2>
