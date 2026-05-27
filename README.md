@@ -467,12 +467,11 @@ This project demonstrates practical IT support knowledge and troubleshooting pro
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
-## Future Improvements
+## Improvements
 
-- Add dark mode
-- Add search functionality
+- Dark mode
+- Search functionality
 - Include more troubleshooting categories
-- Add screenshots and diagrams
 
 ## Author
 
