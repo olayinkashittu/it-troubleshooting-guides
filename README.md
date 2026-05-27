@@ -113,6 +113,33 @@ it-troubleshooting-guides/
 </body>
 </html>
 ├── style.css
+/* Search Bar */
+.search-container {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#searchInput {
+    width: 100%;
+    max-width: 500px;
+    padding: 12px;
+    border: 2px solid #0d6efd;
+    border-radius: 8px;
+    font-size: 1rem;
+    outline: none;
+}
+
+#searchInput:focus {
+    border-color: #084298;
+    box-shadow: 0 0 5px rgba(13, 110, 253, 0.5);
+}
+
+/* Dark Mode Search */
+.dark-mode #searchInput {
+    background-color: #1e1e1e;
+    color: white;
+    border: 2px solid #4da3ff;
+}
 * {
     margin: 0;
     padding: 0;
