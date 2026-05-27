@@ -207,6 +207,63 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+/* Dark Mode Button */
+#darkModeToggle {
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    color: #222;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#darkModeToggle:hover {
+    background-color: #dcdcdc;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode header {
+    background-color: #1f1f1f;
+}
+
+.dark-mode nav {
+    background-color: #000;
+}
+
+.dark-mode .guide-card {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.dark-mode footer {
+    background-color: #000;
+}
+
+.dark-mode nav ul li a {
+    color: white;
+}
+
+.dark-mode nav ul li a:hover {
+    color: #4da3ff;
+}
+
+.dark-mode button {
+    background-color: #4da3ff;
+}
+
+.dark-mode button:hover {
+    background-color: #1d74d1;
+}
 ├── script.js
 function showMessage(message) {
     alert(message);
