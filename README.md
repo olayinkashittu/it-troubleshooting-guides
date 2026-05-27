@@ -98,6 +98,13 @@ it-troubleshooting-guides/
         </section>
 
     </main>
+    <div class="search-container">
+    <input 
+        type="text" 
+        id="searchInput" 
+        placeholder="Search troubleshooting guides..."
+    />
+</div>
     <footer>
         <p>Created by Olayinka Shittu | IT Support Portfolio</p>
     </footer>
