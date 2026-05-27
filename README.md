@@ -111,6 +111,22 @@ it-troubleshooting-guides/
         Mark as Resolved
     </button>
 </section>
+<section id="password" class="guide-card">
+    <h2>Password Reset Assistance</h2>
+    <p>Help users regain account access securely.</p>
+
+    <ol>
+        <li>Verify user identity.</li>
+        <li>Reset password through Active Directory.</li>
+        <li>Force password change at next login.</li>
+        <li>Unlock account if locked.</li>
+        <li>Confirm successful login.</li>
+    </ol>
+
+    <button onclick="showMessage('Password reset completed.')">
+        Mark as Resolved
+    </button>
+</section>
 <section id="wifi" class="guide-card">
     <h2>Wi-Fi Troubleshooting</h2>
     <p>Resolve wireless connectivity problems.</p>
