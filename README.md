@@ -207,5 +207,10 @@ footer {
     margin-top: 30px;
 }
 ├── script.js
+function showMessage(message) {
+    alert(message);
+}
+
+console.log("IT Troubleshooting Guides Loaded Successfully");
 ├── README.md
 └── images/
