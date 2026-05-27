@@ -213,4 +213,51 @@ function showMessage(message) {
 
 console.log("IT Troubleshooting Guides Loaded Successfully");
 ├── README.md
+# IT Troubleshooting Guides
+
+A collection of IT troubleshooting documentation and step-by-step support guides for common technical issues.
+
+## Features
+
+- Network troubleshooting guides
+- Printer issue resolution
+- Slow computer performance fixes
+- Email troubleshooting procedures
+- Beginner-friendly IT support documentation
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Structure
+
+it-troubleshooting-guides/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## Purpose
+
+This project demonstrates practical IT support knowledge and troubleshooting processes commonly used in helpdesk and system administration roles.
+
+## How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+## Future Improvements
+
+- Add dark mode
+- Add search functionality
+- Include more troubleshooting categories
+- Add screenshots and diagrams
+
+## Author
+
+Olayinka Shittu  
+IT Support Administrator
 └── images/
