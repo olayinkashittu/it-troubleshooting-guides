@@ -62,7 +62,23 @@ it-troubleshooting-guides/
                 Mark as Resolved
             </button>
         </section>
+        
+<section id="bluetooth" class="guide-card">
+    <h2>Bluetooth Troubleshooting</h2>
+    <p>Fix common Bluetooth connection issues.</p>
 
+    <ol>
+        <li>Ensure Bluetooth is enabled.</li>
+        <li>Restart Bluetooth service.</li>
+        <li>Remove and reconnect the device.</li>
+        <li>Update Bluetooth drivers.</li>
+        <li>Check device compatibility.</li>
+    </ol>
+
+    <button onclick="showMessage('Bluetooth issue resolved.')">
+        Mark as Resolved
+    </button>
+</section>
         <section id="slowpc" class="guide-card">
             <h2>Slow Computer Performance</h2>
             <p>Improve system speed and responsiveness.</p>
