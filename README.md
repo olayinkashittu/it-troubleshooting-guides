@@ -298,6 +298,23 @@ footer {
     background-color: #1d74d1;
 }
 ├── script.js
+// Search Functionality
+const searchInput = document.getElementById("searchInput");
+const guideCards = document.querySelectorAll(".guide-card");
+
+searchInput.addEventListener("keyup", () => {
+    const searchValue = searchInput.value.toLowerCase();
+
+    guideCards.forEach(card => {
+        const cardText = card.textContent.toLowerCase();
+
+        if (cardText.includes(searchValue)) {
+            card.style.display = "block";
+        } else {
+            card.style.display = "none";
+        }
+    });
+});
 
 // Alert message function
 function showMessage(message) {
