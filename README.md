@@ -18,6 +18,7 @@ it-troubleshooting-guides/
     </header>
 
     <nav>
+    <button id="darkModeToggle">Toggle Dark Mode</button>
         <ul>
             <li><a href="#network">Network Issues</a></li>
             <li><a href="#printer">Printer Problems</a></li>
