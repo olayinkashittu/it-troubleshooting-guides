@@ -48,10 +48,10 @@ Use:
 dig google.com
 ```
 
-## 5. Test DNS Resolution
+## 5. Check Open Network Connections
 
  Use:
  
 ```bash
-ping google.com
+ss -tuln
 ```
