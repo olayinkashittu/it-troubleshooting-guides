@@ -13,5 +13,6 @@ ip addr
 
 ## 2. Check the Routing Table
 
+```text
 ```bash
 ip route
