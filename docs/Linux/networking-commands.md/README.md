@@ -89,3 +89,12 @@ An alternative is:
 ```bash
 tracepath google.com
 ```
+
+## 8. Check DNS Configuration
+
+ Use:
+ 
+```bash
+cat /etc/resolv.conf
+```
+
