@@ -10,3 +10,5 @@ Use:
 
 ```bash
 ip addr
+
+ip route
