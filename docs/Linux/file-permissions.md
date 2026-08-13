@@ -24,3 +24,9 @@ Use:
 
 ```bash
 ls -l
+
+Example:
+ 
+```bash
+-rwxr-xr--
+```
