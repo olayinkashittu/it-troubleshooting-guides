@@ -37,3 +37,11 @@ The permission string represents:
 ```bash
 Owner | Group | Others
 ```
+
+## 2. Check File Ownership
+
+Use:
+
+```bash
+ls -l filename
+```
