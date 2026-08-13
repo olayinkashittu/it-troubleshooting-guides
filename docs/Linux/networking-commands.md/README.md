@@ -11,6 +11,9 @@ Use:
 ```bash
 ip addr
 
-ip route
+## 2. Check the Routing Table
 
-ping 8.8.8.8
+Use:
+
+```bash
+ip route
