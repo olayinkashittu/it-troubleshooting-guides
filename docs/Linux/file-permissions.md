@@ -31,3 +31,9 @@ Example:
 ```bash
 -rwxr-xr--
 ```
+
+The permission string represents:
+ 
+```bash
+Owner | Group | Others
+```
