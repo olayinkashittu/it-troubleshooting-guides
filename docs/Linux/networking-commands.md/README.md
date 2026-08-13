@@ -11,8 +11,11 @@ Use:
 ```bash
 ip addr
 
+Use:
+
 ## 2. Check the Routing Table
 
 Use:
 
+```bash
 ip route
