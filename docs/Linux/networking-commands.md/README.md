@@ -146,3 +146,55 @@ Test DNS:
 ```bash
 ping google.com
 ```
+
+```bash
+## Common Symptoms and Causes
+
+### No IP address
+
+Possible causes:
+
+- DHCP failure
+- Disabled network interface
+- Incorrect static configuration
+
+### Can ping IP but not hostname
+
+Possible cause:
+
+- DNS configuration problem
+
+### Cannot ping the gateway
+
+Possible causes:
+
+- Incorrect IP configuration
+- Incorrect subnet
+- Network interface problem
+- Local network connectivity problem
+
+### Can reach the gateway but not the internet
+
+Possible causes:
+
+- Default gateway issue
+- Router problem
+- Firewall rules
+- Upstream connectivity issue
+
+## Verification
+
+Confirm:
+
+- The network interface is active.
+- A valid IP address is assigned.
+- A default route exists.
+- The gateway responds.
+- External IP addresses can be reached.
+- DNS names resolve correctly.
+
+## Useful Command Summary
+
+```bash
+ip addr
+```
