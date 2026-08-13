@@ -1,3 +1,7 @@
+# Linux File Permissions Troubleshooting
+
+## Overview
+
 Linux file permissions control who can read, write, or execute files and directories.
 
 Permissions are commonly assigned to:
