@@ -95,7 +95,7 @@ ls -ld directory
 ```
 A user may have access to a file but still be unable to enter its directory if the directory permissions are incorrect.
 
-7. Troubleshoot "Permission Denied"
+## 7. Troubleshoot "Permission Denied"
 
 When a user receives a permission error:
 
