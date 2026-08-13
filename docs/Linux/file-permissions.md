@@ -105,3 +105,5 @@ Check the group membership.
 Check directory permissions.
 Verify whether sudo is required.
 Apply the minimum permissions necessary.
+
+# Useful Commands
