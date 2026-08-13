@@ -45,3 +45,16 @@ Use:
 ```bash
 ls -l filename
 ```
+
+## 3. Change File Permissions
+
+Use:
+
+```bash
+chmod 644 test.txt
+```
+This gives:
+
+Owner: read and write
+Group: read
+Others: read
