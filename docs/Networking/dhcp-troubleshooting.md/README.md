@@ -31,3 +31,9 @@ ipconfig /renew
 ## Resolution
 
 A valid IP address was assigned successfully.
+
+git add .
+
+git commit -m "Added networking troubleshooting documentation"
+
+git push origin main
