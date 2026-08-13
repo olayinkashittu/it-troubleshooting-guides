@@ -12,7 +12,6 @@ Use:
 ip addr
 
 ## 2. Check the Routing Table
-
 ```
 ```bash
 ip route
