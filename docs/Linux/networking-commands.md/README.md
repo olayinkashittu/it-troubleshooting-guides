@@ -98,3 +98,20 @@ tracepath google.com
 cat /etc/resolv.conf
 ```
 
+## 9. Troubleshooting Sequence
+
+ When a Linux system cannot access the network, check in this order:
+ 
+```bash
+Network interface
+      ↓
+IP address
+      ↓
+Default gateway
+      ↓
+External IP connectivity
+      ↓
+DNS resolution
+      ↓
+Application/service connectivity
+```
