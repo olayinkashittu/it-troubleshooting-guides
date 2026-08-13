@@ -35,3 +35,17 @@ ping 8.8.8.8
 ```bash
 ping google.com
 ```
+
+Use:
+
+```bash
+nslookup google.com
+```
+
+## 5. Test DNS Resolution
+
+ Use:
+ 
+```bash
+ping google.com
+```
