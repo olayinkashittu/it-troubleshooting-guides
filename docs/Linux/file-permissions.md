@@ -106,4 +106,4 @@ Check directory permissions.
 Verify whether sudo is required.
 Apply the minimum permissions necessary.
 
-# Useful Commands
+## Useful Commands
