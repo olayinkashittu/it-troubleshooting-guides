@@ -42,6 +42,12 @@ Use:
 nslookup google.com
 ```
 
+Use:
+
+```bash
+dig google.com
+```
+
 ## 5. Test DNS Resolution
 
  Use:
