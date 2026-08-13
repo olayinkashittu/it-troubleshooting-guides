@@ -27,3 +27,11 @@ ip route
 ```bash
 ping 8.8.8.8
 ```
+
+## 4. Test DNS Resolution
+
+ Use:
+ 
+```bash
+ping google.com
+```
