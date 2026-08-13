@@ -46,3 +46,9 @@ nslookup google.com
 ## Resolution
 
 Network connectivity restored successfully.
+
+git add .
+
+git commit -m "Added networking troubleshooting documentation"
+
+git push origin main
