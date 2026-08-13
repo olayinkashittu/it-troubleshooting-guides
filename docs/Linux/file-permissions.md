@@ -66,3 +66,17 @@ Use:
 ```bash
 chmod +x script.sh
 ```
+
+Then run:
+
+```bash
+./script.sh
+```
+
+## 5.Change File Ownership
+
+Use:
+
+```bash
+sudo chown username filename
+```
