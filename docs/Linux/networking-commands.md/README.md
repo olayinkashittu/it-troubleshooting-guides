@@ -15,5 +15,4 @@ ip addr
 
 Use:
 
-```bash
 ip route
