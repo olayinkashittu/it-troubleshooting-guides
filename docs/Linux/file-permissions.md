@@ -94,3 +94,14 @@ Use:
 ls -ld directory
 ```
 A user may have access to a file but still be unable to enter its directory if the directory permissions are incorrect.
+
+7. Troubleshoot "Permission Denied"
+
+When a user receives a permission error:
+
+Check the file permissions.
+Check the file owner.
+Check the group membership.
+Check directory permissions.
+Verify whether sudo is required.
+Apply the minimum permissions necessary.
