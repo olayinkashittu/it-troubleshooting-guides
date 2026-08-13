@@ -75,3 +75,17 @@ Use:
 ```bash
 hostnamectl
 ```
+
+## 7. Trace the Network Path
+
+ Use:
+ 
+```bash
+traceroute google.com
+```
+
+An alternative is:
+ 
+```bash
+tracepath google.com
+```
