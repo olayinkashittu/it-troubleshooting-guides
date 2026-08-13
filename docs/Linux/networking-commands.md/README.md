@@ -115,3 +115,16 @@ DNS resolution
       ↓
 Application/service connectivity
 ```
+
+Useful Tests 
+Check the interface:
+ 
+```bash
+ip addr
+```
+
+Check the route:
+ 
+```bash
+ip route
+```
