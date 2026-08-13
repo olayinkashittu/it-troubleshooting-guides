@@ -29,3 +29,9 @@ ipconfig
 ## Resolution
 
 Wireless connectivity restored.
+
+git add .
+
+git commit -m "Added networking troubleshooting documentation"
+
+git push origin main
