@@ -75,3 +75,4 @@ The user's account was unlocked and successful authentication was confirmed.
 ## Security Note
 
 Always verify the user's identity before unlocking or resetting an account.
+
