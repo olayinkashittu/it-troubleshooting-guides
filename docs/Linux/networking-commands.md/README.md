@@ -128,3 +128,15 @@ Check the route:
 ```bash
 ip route
 ```
+
+Test the gateway:
+ 
+```bash
+ping <gateway-ip>
+```
+
+Test an external IP:
+ 
+```bash
+ping 8.8.8.8
+```
