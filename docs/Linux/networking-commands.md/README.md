@@ -12,3 +12,5 @@ Use:
 ip addr
 
 ip route
+
+ping 8.8.8.8
