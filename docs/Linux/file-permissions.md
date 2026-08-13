@@ -86,3 +86,11 @@ To change both owner and group:
 ```bash
 sudo chown username:groupname filename
 ```
+## 6. Check Directory Permissions
+
+Use:
+
+```bash
+ls -ld directory
+```
+A user may have access to a file but still be unable to enter its directory if the directory permissions are incorrect.
