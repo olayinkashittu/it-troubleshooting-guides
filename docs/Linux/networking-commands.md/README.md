@@ -140,3 +140,9 @@ Test an external IP:
 ```bash
 ping 8.8.8.8
 ```
+
+Test DNS:
+ 
+```bash
+ping google.com
+```
