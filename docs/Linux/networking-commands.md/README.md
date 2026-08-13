@@ -55,3 +55,9 @@ dig google.com
 ```bash
 ss -tuln
 ```
+
+Use:
+ 
+```bash
+ss -tunap
+```
