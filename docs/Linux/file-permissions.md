@@ -80,3 +80,9 @@ Use:
 ```bash
 sudo chown username filename
 ```
+
+To change both owner and group:
+
+```bash
+sudo chown username:groupname filename
+```
