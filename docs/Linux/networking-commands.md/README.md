@@ -18,3 +18,12 @@ ip addr
  
 ```bash
 ip route
+```
+
+## 3. Test Network Connectivity
+
+ Use:
+ 
+```bash
+ping 8.8.8.8
+```
