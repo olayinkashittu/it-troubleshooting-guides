@@ -198,3 +198,7 @@ Confirm:
 ```bash
 ip addr
 ```
+
+```bash
+ip route
+```
