@@ -58,3 +58,11 @@ This gives:
 Owner: read and write
 Group: read
 Others: read
+
+## 4. Make a Script Executable
+
+Use:
+
+```bash
+chmod +x script.sh
+```
