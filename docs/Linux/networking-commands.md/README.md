@@ -61,3 +61,17 @@ Use:
 ```bash
 ss -tunap
 ```
+
+## 6. Check the Hostname
+
+ Use:
+ 
+```bash
+hostname
+```
+
+Use:
+ 
+```bash
+hostnamectl
+```
