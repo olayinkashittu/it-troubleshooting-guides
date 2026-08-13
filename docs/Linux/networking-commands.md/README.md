@@ -200,5 +200,21 @@ ip addr
 ```
 
 ```bash
-ip route
+ping 8.8.8.8
+```
+
+```bash
+nslookup google.com
+```
+
+```bash
+ss -tuln
+```
+
+```bash
+hostname
+```
+
+```bash
+traceroute google.com
 ```
