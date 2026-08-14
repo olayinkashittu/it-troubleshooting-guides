@@ -58,4 +58,68 @@ Settings
 → Storage
 ```
 
+Check available free space.
 
+Remove unnecessary files using approved Windows cleanup tools.
+
+### 4. Delete Temporary Files
+
+Open:
+
+```bash
+Settings
+→ System
+→ Storage
+→ Temporary files
+```
+
+Review the listed temporary files and remove unnecessary items.
+
+### 5. Check for Malware
+
+Run an approved antivirus or Microsoft Defender scan.
+
+Do not disable security software simply to improve performance.
+
+### 6. Check Windows Updates
+
+Go to:
+
+```bash
+Settings
+→ Windows Update
+```
+
+Install available updates according to organizational policy.
+
+### 7. Check System Resource Usage
+
+From Task Manager, identify whether the problem is primarily related to:
+
+CPU
+Memory
+Disk
+Network
+
+This helps narrow down the cause.
+
+### 8. Check Running Applications
+
+Close applications that are not required.
+
+Check whether a particular application consistently causes high resource usage.
+
+### 9. Restart the Computer
+
+Restart Windows and check whether performance improves.
+
+### 10. Check Hardware
+
+If software troubleshooting does not resolve the issue, investigate:
+
+Available RAM
+Storage type
+Storage health
+CPU performance
+Overheating
+Hardware errors
