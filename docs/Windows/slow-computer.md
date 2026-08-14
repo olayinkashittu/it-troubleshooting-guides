@@ -25,7 +25,7 @@ Press:
 Ctrl + Shift + Esc
 ```
 
-## Open Task Manager.
+### Open Task Manager.
 
 Review:
 
@@ -35,3 +35,15 @@ Disk usage
 Network usage
 
 Identify applications or processes consuming unusually high resources.
+
+### 2. Check Startup Applications
+
+In Task Manager:
+
+```bash
+Startup apps
+```
+
+Review programs that start automatically with Windows.
+
+Disable unnecessary startup applications when authorized.
