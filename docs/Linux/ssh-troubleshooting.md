@@ -166,7 +166,7 @@ Firewall blocking traffic
 Server is offline
 Routing problem
 
-# Useful Commands
+## Useful Commands
  
 ```bash
 ping <server-ip>
@@ -187,7 +187,7 @@ ss -tuln
 ```bash
 sudo ufw status
 ```
-Verification
+## Verification
 
 Confirm:
 
@@ -202,6 +202,6 @@ Use strong authentication, restrict SSH access to authorized users, and avoid ex
 
 Never document or share real passwords or private SSH keys.
 
-Resolution
+## Resolution
 
 The SSH connectivity issue was isolated by checking network connectivity, the SSH service, listening ports, firewall configuration, and authentication.
