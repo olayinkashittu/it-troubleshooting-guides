@@ -138,3 +138,41 @@ Check Running Processes
 cmd
 tasklist
 ```
+
+Check Network Configuration
+
+```bash
+cmd
+ipconfig
+```
+
+Common Causes
+Too many startup applications
+Insufficient RAM
+Low disk space
+High CPU usage
+High disk usage
+Malware
+Outdated drivers
+Pending Windows updates
+Hardware limitations
+Overheating
+Verification
+
+Confirm that:
+
+Windows starts normally.
+Applications open within an acceptable time.
+CPU usage is normal when the system is idle.
+Memory usage is reasonable.
+Disk usage is not continuously excessive.
+The user can perform normal tasks without significant delays.
+Security Best Practice
+
+Do not terminate unknown system processes or remove security software without understanding the impact.
+
+Follow organizational support procedures before making system changes.
+
+Resolution
+
+The performance issue was isolated by checking resource usage, startup applications, storage, updates, security status, and hardware conditions.
