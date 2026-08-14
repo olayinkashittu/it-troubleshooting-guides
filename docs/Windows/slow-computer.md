@@ -132,3 +132,9 @@ Hardware errors
    cmd
 systeminfo
 ```
+Check Running Processes
+
+```bash
+cmd
+tasklist
+```
