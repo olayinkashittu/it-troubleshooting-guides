@@ -47,3 +47,15 @@ Startup apps
 Review programs that start automatically with Windows.
 
 Disable unnecessary startup applications when authorized.
+
+### 3. Check Available Disk Space
+
+Open:
+
+```bash
+Settings
+→ System
+→ Storage
+```
+
+
