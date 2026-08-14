@@ -107,3 +107,45 @@ Verify whether sudo is required.
 Apply the minimum permissions necessary.
 
 ## Useful Commands
+
+```bash
+ls -l
+```
+
+```bash
+chmod
+```
+
+```bash
+chown
+```
+
+```bash
+id
+```
+
+```bash
+groups
+```
+
+Verification
+
+After changing permissions:
+
+```bash
+ls -l filename
+```
+
+Then test the required action again.
+
+Best Practice
+
+Follow the principle of least privilege. Do not give users full access when only limited permissions are required.
+
+Avoid using:
+
+```bash
+chmod 777
+```
+unless there is a specific, controlled reason in a lab environment.
+
