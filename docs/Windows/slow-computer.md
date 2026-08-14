@@ -123,3 +123,12 @@ Storage health
 CPU performance
 Overheating
 Hardware errors
+
+## Useful Commands
+
+### Check System Information
+
+```bash
+   cmd
+systeminfo
+```
