@@ -70,8 +70,7 @@ Then send a new test document.
 Open:
 
 ```bash
-→ Bluetooth & devices
-→ Printers & scanners
+Services
 ```
 
 
