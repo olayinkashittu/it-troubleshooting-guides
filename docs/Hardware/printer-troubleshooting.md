@@ -42,14 +42,17 @@ For a network printer:
 - Confirm the printer is connected to the network.
 - Check the printer's IP address.
 - Verify the computer can reach the printer.
-```bash
+```
 
 ### 3. Check Printer Status
 
 Open:
 
-```bash
 Settings
+
+```bash
+→ Bluetooth & devices
+→ Printers & scanners
 ```
 
 Select the affected printer and review its status.
