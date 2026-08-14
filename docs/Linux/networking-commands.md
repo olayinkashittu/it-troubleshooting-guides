@@ -219,3 +219,6 @@ hostname
 traceroute google.com
 ```
 
+Resolution
+
+The Linux networking problem was isolated by checking interface configuration, routing, connectivity, and DNS resolution.
