@@ -114,8 +114,8 @@ Additional repair options should only be used when appropriate and according to 
 
 Open:
 
-```bash
 Settings
+```bash
 → Windows Update
 → Update history
 ```
