@@ -9,6 +9,7 @@ This repository was created to document real-world troubleshooting procedures, d
 ```bash
 it-troubleshooting-guides
 │
+```
 ├── docs
 │   ├── Active-Directory
 │   ├── Hardware
