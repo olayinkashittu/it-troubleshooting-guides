@@ -106,6 +106,27 @@
 </body>
 </html>
 - script.js
+script.js
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    const sections = document.querySelectorAll("section");
+
+    sections.forEach(function (section) {
+
+        section.addEventListener("click", function () {
+
+            this.scrollIntoView({
+                behavior: "smooth"
+            });
+
+        });
+
+    });
+
+    console.log("IT Troubleshooting Guides loaded successfully.");
+
+});
 - style.css
 body {
     font-family: Arial, sans-serif;
