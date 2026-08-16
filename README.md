@@ -9,99 +9,53 @@
   - Windows/
 - images/
 - index.html
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Troubleshooting Guides</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>IT Troubleshooting Guides</title>
+
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
-    <h1>IT Troubleshooting Guides</h1>
-    <p>Windows | Active Directory | Networking | Linux | Microsoft 365 | Hardware</p>
+<h1>IT Troubleshooting Guides</h1>
+
+<p>
+Real-world troubleshooting documentation covering Windows, Active Directory,
+Networking, Linux, Microsoft 365, and Hardware support.
+</p>
 </header>
 
 <nav>
-    <ul>
-        <li><a href="#windows">Windows</a></li>
-        <li><a href="#networking">Networking</a></li>
-        <li><a href="#microsoft365">Microsoft 365</a></li>
-        <li><a href="#linux">Linux</a></li>
-        <li><a href="#hardware">Hardware</a></li>
-        <li><a href="#active-directory">Active Directory</a></li>
-    </ul>
+<ul>
+<li><a href="docs/Windows/">Windows</a></li>
+<li><a href="docs/Active-Directory/">Active Directory</a></li>
+<li><a href="docs/Networking/">Networking</a></li>
+<li><a href="docs/Linux/">Linux</a></li>
+<li><a href="docs/Microsoft-365/">Microsoft 365</a></li>
+<li><a href="docs/Hardware/">Hardware</a></li>
+</ul>
 </nav>
 
-<main>
+<section>
+<h2>Repository Structure</h2>
 
-<section id="windows">
-    <h2>Windows</h2>
-    <ul>
-        <li>Blue Screen Troubleshooting</li>
-        <li>Slow Computer Troubleshooting</li>
-        <li>Software Installation Troubleshooting</li>
-        <li>Windows Update Troubleshooting</li>
-    </ul>
+<ul>
+<li>Windows Troubleshooting</li>
+<li>Active Directory Troubleshooting</li>
+<li>Networking Troubleshooting</li>
+<li>Linux Troubleshooting</li>
+<li>Microsoft 365 Troubleshooting</li>
+<li>Hardware Troubleshooting</li>
+</ul>
 </section>
 
-<section id="networking">
-    <h2>Networking</h2>
-    <ul>
-        <li>DHCP Troubleshooting</li>
-        <li>DNS Troubleshooting</li>
-        <li>IP Configuration Commands</li>
-        <li>Network Connectivity Troubleshooting</li>
-        <li>VPN Troubleshooting</li>
-        <li>Wi-Fi Troubleshooting</li>
-    </ul>
-</section>
-
-<section id="microsoft365">
-    <h2>Microsoft 365</h2>
-    <ul>
-        <li>Mailbox Issues</li>
-        <li>Outlook Troubleshooting</li>
-        <li>Password Reset</li>
-        <li>Microsoft Teams Troubleshooting</li>
-    </ul>
-</section>
-
-<section id="linux">
-    <h2>Linux</h2>
-    <ul>
-        <li>File Permissions</li>
-        <li>Networking Commands</li>
-        <li>SSH Troubleshooting</li>
-        <li>User Management</li>
-    </ul>
-</section>
-
-<section id="hardware">
-    <h2>Hardware</h2>
-    <ul>
-        <li>Bluetooth Troubleshooting</li>
-        <li>Keyboard Troubleshooting</li>
-        <li>Monitor Troubleshooting</li>
-        <li>Printer Troubleshooting</li>
-    </ul>
-</section>
-
-<section id="active-directory">
-    <h2>Active Directory</h2>
-    <ul>
-        <li>Account Lockout</li>
-        <li>Group Policy</li>
-        <li>Organizational Units</li>
-        <li>Password Reset</li>
-        <li>User Management</li>
-    </ul>
-</section>
-
-</main>
+<script src="script.js"></script>
 
 </body>
 </html>
