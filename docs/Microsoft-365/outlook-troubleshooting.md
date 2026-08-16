@@ -39,8 +39,9 @@ Disconnected
 
 If Outlook is offline, select:
 
-```bash
+
 Send / Receive
+```bash
 → Work Offline
 ```
 
