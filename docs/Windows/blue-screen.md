@@ -96,11 +96,10 @@ Use the Windows Memory Diagnostic tool when memory problems are suspected.
 
 Open
 
-```bash
 Windows Memory Diagnostic
 ```bash
-
 Follow the prompts to restart and test the computer's memory.
+```
 
 ### 10. Check Disk Health
 
