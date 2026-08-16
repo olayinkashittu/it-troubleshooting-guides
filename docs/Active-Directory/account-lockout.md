@@ -68,11 +68,11 @@ Check whether the user has:
 
 Ask the user to sign in again and confirm access to required resources.
 
-## Resolution
+### Resolution
 
 The user's account was unlocked and successful authentication was confirmed.
 
-## Security Note
+### Security Note
 
 Always verify the user's identity before unlocking or resetting an account.
 
