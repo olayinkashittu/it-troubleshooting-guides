@@ -67,8 +67,9 @@ Confirm that camera access is enabled.
 
 In Teams, open:
 
-```bash
+
 Settings
+```bash
 → Devices
 ```
 
