@@ -107,5 +107,43 @@
 </html>
 - script.js
 - style.css
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+section {
+    margin-top: 40px;
+}
+
+h1,
+h2 {
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
 - README.md
   
