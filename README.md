@@ -8,6 +8,8 @@ This repository was created to document real-world troubleshooting procedures, d
 
 ```bash
 it-troubleshooting-guides
+```
+```bash
 │
 ```
 ├── docs
