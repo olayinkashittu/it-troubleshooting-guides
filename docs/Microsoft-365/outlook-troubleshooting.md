@@ -21,7 +21,7 @@ Confirm that the computer has a working network or internet connection.
 
 Test connectivity with:
 
-```cmd
+```bash
 ping 8.8.8.8
 ```
 
@@ -31,7 +31,7 @@ Open Outlook and check the status shown at the bottom of the window.
 
 Look for messages such as:
 
-```text
+```bash
 Connected
 Working Offline
 Disconnected
@@ -39,7 +39,7 @@ Disconnected
 
 If Outlook is offline, select:
 
-```text
+```bash
 Send / Receive
 → Work Offline
 ```
@@ -56,8 +56,8 @@ A full mailbox may prevent new messages from being received.
 
 Go to:
 
-```text
 File
+```bash
 → Account Settings
 → Account Settings
 ```
@@ -80,8 +80,8 @@ If necessary, restart the computer.
 
 Open:
 
-```text
 Control Panel
+```bash
 → Mail
 → Show Profiles
 ```
