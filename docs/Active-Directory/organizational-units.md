@@ -191,5 +191,5 @@ After creating an OU:
 
 ## Resolution
 
-The Active Directory Organizational Unit structure was created and organized to support effective user, computer, and Group Policy management.
+The Active Directory Organizational Unit structure was created and organized to support effective user, computer, and Group Policymanagement.
 
