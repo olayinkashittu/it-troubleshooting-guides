@@ -10,7 +10,7 @@ This repository was created to document real-world troubleshooting procedures, d
 it-troubleshooting-guides
 ```
 ```bash
-│
+            │
 ```
 ├── docs
 │   ├── Active-Directory
