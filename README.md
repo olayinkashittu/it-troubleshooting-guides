@@ -11,19 +11,56 @@ it-troubleshooting-guides
 │
 ├── docs
 │   ├── Active-Directory
+│   │   ├── account-lockout.md
+│   │   ├── group-policy.md
+│   │   ├── organizational-units.md
+│   │   ├── password-reset.md
+│   │   ├── user-management.md
+│   │   └── README.md
+│   │
 │   ├── Hardware
+│   │   ├── bluetooth-troubleshooting.md
+│   │   ├── keyboard-troubleshooting.md
+│   │   ├── monitor-troubleshooting.md
+│   │   ├── printer-troubleshooting.md
+│   │   └── README.md
+│   │
 │   ├── Linux
+│   │   ├── file-permissions.md
+│   │   ├── networking-commands.md
+│   │   ├── ssh-troubleshooting.md
+│   │   ├── user-management.md
+│   │   └── README.md
+│   │
 │   ├── Microsoft-365
+│   │   ├── mailbox-issues.md
+│   │   ├── outlook-troubleshooting.md
+│   │   ├── password-reset.md
+│   │   ├── teams-troubleshooting.md
+│   │   └── README.md
+│   │
 │   ├── Networking
+│   │   ├── dhcp-troubleshooting.md
+│   │   ├── dns-troubleshooting.md
+│   │   ├── ipconfig-commands.md
+│   │   ├── network-connectivity.md
+│   │   ├── vpn-troubleshooting.md
+│   │   ├── wifi-troubleshooting.md
+│   │   └── README.md
+│   │
 │   └── Windows
+│       ├── blue-screen.md
+│       ├── slow-computer.md
+│       ├── software-installation.md
+│       ├── windows-update.md
+│       └── README.md
 │
 ├── images
-├── README.md
 ├── index.html
+├── script.js
 ├── style.css
-└── script.js
+└── README.md
 ```
-
 
 ## Topics Covered
 ### Windows
