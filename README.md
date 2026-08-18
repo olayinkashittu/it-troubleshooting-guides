@@ -7,10 +7,11 @@ This repository was created to document real-world troubleshooting procedures, d
 ## Repository Structure
 
 ```bash
-it-troubleshooting-guides
+it-troubleshooting-guides/
 │
-├── docs
-│   ├── Active-Directory
+├── docs/
+│   │
+│   ├── Active-Directory/
 │   │   ├── account-lockout.md
 │   │   ├── group-policy.md
 │   │   ├── organizational-units.md
@@ -18,28 +19,28 @@ it-troubleshooting-guides
 │   │   ├── user-management.md
 │   │   └── README.md
 │   │
-│   ├── Hardware
+│   ├── Hardware/
 │   │   ├── bluetooth-troubleshooting.md
 │   │   ├── keyboard-troubleshooting.md
 │   │   ├── monitor-troubleshooting.md
 │   │   ├── printer-troubleshooting.md
 │   │   └── README.md
 │   │
-│   ├── Linux
+│   ├── Linux/
 │   │   ├── file-permissions.md
 │   │   ├── networking-commands.md
 │   │   ├── ssh-troubleshooting.md
 │   │   ├── user-management.md
 │   │   └── README.md
 │   │
-│   ├── Microsoft-365
+│   ├── Microsoft-365/
 │   │   ├── mailbox-issues.md
 │   │   ├── outlook-troubleshooting.md
 │   │   ├── password-reset.md
 │   │   ├── teams-troubleshooting.md
 │   │   └── README.md
 │   │
-│   ├── Networking
+│   ├── Networking/
 │   │   ├── dhcp-troubleshooting.md
 │   │   ├── dns-troubleshooting.md
 │   │   ├── ipconfig-commands.md
@@ -48,14 +49,18 @@ it-troubleshooting-guides
 │   │   ├── wifi-troubleshooting.md
 │   │   └── README.md
 │   │
-│   └── Windows
+│   └── Windows/
 │       ├── blue-screen.md
 │       ├── slow-computer.md
 │       ├── software-installation.md
 │       ├── windows-update.md
 │       └── README.md
 │
-├── images
+├── images/
+│   ├── active-directory-users.png
+│   ├── account-verification.png
+│   └── domain-controller.png
+│
 ├── index.html
 ├── script.js
 ├── style.css
